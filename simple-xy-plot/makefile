@@ -1,4 +1,4 @@
-TARGET_EXEC ?= jstwin
+TARGET_EXEC ?= SimplePlot
 
 BUILD_DIR ?= ./build
 SRC_DIRS ?= ./.
