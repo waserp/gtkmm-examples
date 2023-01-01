@@ -54,6 +54,8 @@
     "unordered_map": "cpp",
     "iostream": "cpp",
     "semaphore": "cpp",
-    "stop_token": "cpp"
+    "stop_token": "cpp",
+    "cstring": "cpp",
+    "ranges": "cpp"
   }
 }

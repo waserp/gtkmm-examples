@@ -28,6 +28,11 @@ CPlot::CPlot()
   SetTitle("Engine");
 }
 
+void CPlot::ClearPlots()
+{
+  m_PlotData.clear();
+  ForceRedraw();
+}
 
 void CPlot::AddPlot(std::vector<float>& p_x, std::vector<float>& p_y)
 {
